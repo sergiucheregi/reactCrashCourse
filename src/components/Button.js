@@ -1,4 +1,3 @@
-import { on } from 'commander'
 import PropTypes from 'prop-types'
 
 const Button = ({ color, text, onClick }) => {
